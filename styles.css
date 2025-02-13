@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+h2{
+    background-color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+input{
+    background-color: bisque;
+    text-align: center;
+    margin:50px ;
+}
+button{
+    font-weight: 500;
+    color:brown;
+    margin: 10px;
+}
+
+
